@@ -1,0 +1,124 @@
+ 
+
+ 
+
+m 1111
+
+111/
+
+7
+
+mm”.
+a,” 11/
+my”;
+mum
+3557”"
+
+11/44:;
+
+,A
+”mm
+,6,
+
+”1/
+
+//
+
+z
+”I,”
+
+flu/u
+
+’2
+
+mm
+1/;
+
+//
+
+//
+
+I,
+
+A 2
+
+» ’ﬁ
+
+”,1
+
+1,7,2
+,
+
+3
+
+1111111
+1’
+
+WW.
+I”.
+m,
+I”
+a,” m
+m I,
+III/””5
+”my/4
+”/4552
+III/{72
+4
+mm,
+{ K 4
+71111114
+1/1.
+111111111.
+//////1
+(”A ,1
+my”,
+711/ '
+m ,.
+r/l/l/m
+4,1)
+/111111.
+”mm
+WM,
+711/ ’
+/
+
+ 
+
+%\\\Introduction
+
+The Virtual Reality Modeling Language (VRML) is a language for describing multi—
+participant interactive simulations —— virtual worlds networked via the
+hyperlinked with the World Wide Web. All aspects of virtual world-
+
+   
+   
+       
+
+interactive behavior. These worlds can contain objec
+worlds, HTML documents or other valid MIM
+with a hyperlink, the appropriate MIME viewer-1
+to a VRML document from within a corr nf
+
+When the user selects a link
+WW browser, a VRML
+panion applications to
+
+ing the Web. Future versions of
+mations, motion physics and real—
+
+    
+     
+   
+
+hosts which manipulated them. While this abstraction was useful, it was
+ithout any clear sense of ”what went where”, access to Internet was
+
+know ‘as World Wide Web, added another layer of abstraction to the existing structure.
+This abstraction provided an ”addressing" scheme, a unique identifier (the Universal
+Resource Locator), which could tell anyone ”where to go and how to get there” for any
+piece of data within the Web. While useful, it lacked dimensionality; there’s no there
+there within the web, and the only type of navigation permissible (other than surfing) is
+by direct reference. In other words, I can only tell you how to get to the VRML Forum
+home page by saying, ”http://www.wired.com/”, which is not human—centered data. In
+

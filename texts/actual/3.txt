@@ -1,0 +1,160 @@
+ 
+
+ 
+
+11/4145:
+mm”.
+a,” 11/
+
+111
+my”;
+(mum
+71/1/11},
+
+«I 1
+
+l
+
+A
+
+III/m
+
+I
+{a
+
+//
+2/1/1112
+
+”/1
+//”‘
+
+r//
+
+//I
+
+I”
+
+[ll
+-/1
+
+,
+””944,
+W,
+
+//
+
+2
+» ’ﬁ
+
+111
+1..
+
+ml.
+
+1
+1111111
+. %
+
+n
+
+g
+
+1111111
+1111111.
+”mm
+”W”,
+In”
+
+4
+
+4,14
+7
+
+1
+
+7mm.
+’11;
+m,
+m
+a,” m
+m ,
+III/””5
+”my/4
+W452
+”I”,
+”I”,
+m,”
+m, m
+f K a
+7mm.
+’11;
+mm”.
+/ ”m,
+(”A ,1
+WM,
+711/
+m
+4
+
+ 
+
+fact, I need to make an effort to remember it at all. So, while the World Wide Web
+provides a retrieval mechanism to complement the existing storage mechanism, it leaves
+a lot to be desired, particularly for human beings.
+
+Finally, we move to ”perceptualized” Internetworks, where the data h
+that is, rendered sensually. If something is represented sensually, i
+
+9
+
+   
+ 
+ 
+ 
+ 
+ 
+     
+  
+     
+  
+    
+  
+     
+
+humans at the center of the Internet, ordering its universe to
+that, the most important single element is a standard that d
+perception. Virtual Reality Modeling Language is that st ‘
+universal description languagefor mum-participant '
+
+process of consciousness, as expressed in terms
+Events occur and are recorded (memor )' i
+
+and cognitive science.
+11 from memory
+
+should avoid becoming trapped in an
+need to design to avoid disor' “ ‘
+
+f the “success of a process that was committed to being
+-needs of a growing Web community. Rather than re—
+
+This document is th
+open and ﬂexible
+invent the whe
+from which
+
+0 jewed in the spring of 1994 at the first annual World Wide Web
+Geneva, Switzerland. Tim Berners—Lee and Dave Raggett organized a
+
+_ —a—Feather (BOF) session to discuss Virtual Reality interfaces to the World Wide
+veral BOF attendees described projects already underway to build three
+
+dime onal graphical Visualization tools which interoperate with the Web. Attendees
+agreed on the need for these tools to have a common language for specifying 3D scene
+description and WWW hyperlinks —— an analog of HTML for Virtual reality. The term
+Virtual Reality Markup Language (VRML) was coined, and the group resolved to begin
+specification work after the conference. The word ’Markup’ was later changed to
+’Modeling’ to reﬂect the graphical nature of VRML.
+
+ 
+

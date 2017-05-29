@@ -1,0 +1,64 @@
+ 
+
+ 
+
+111
+
+my”;
+I
+
+7
+
+11/4155:
+mm”.
+a”, ”I
+”mm
+3557””
+
+m 1
+
+s \ SW \ ms: Ismsﬁmsw
+as §§§d§k§§§ S s msstxsshw AmsNxmmx.
+
+ 
+
+Shortly after the Geneva BOF session, the www—vrml mailing list was created to discuss
+
+the development of a specification for the first version of VRML. The response to the list
+invitation was overwhelming: within a week, there were over a thousand members. After
+an initial settling—in period, list moderator Mark Pesce of Labyrinth Group announced his
+intention to have a draft version of the specification ready by the WW
+conference, a mere five months away. There was general agreeme ’
+this schedule was aggressive, it was achievable provided that the r
+first version were not too ambitious and that VRML could be
+
+   
+  
+     
+ 
+
+from Silicon Graphics, Inc. The Inventor File Fo-
+3D scenes with polygonally rendered obj
+
+ts complete descriptions of
+ials, ambient properties and
+
+, w1t tensions to support
+
+f Silicon Graphics has adapted the
+om the mailing list. SGI has publicly
+pen market, and have contributed a
+ap VRML Viewer development.
+
+ 
+    
+  
+
+Inventor File Format for VRML
+stated that the file format is "
+file format parser into the u
+
+ 
+
+ 
+
